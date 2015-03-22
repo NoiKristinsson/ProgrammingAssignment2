@@ -1,7 +1,6 @@
-## March 2014
-## Creates cacheable matrix for inputting to
-## cacheSolve() function which sets and gets 
-## the cached values
+## March 2015 :D
+## Creates a cacheable matrix for inputting to
+## cacheSolve() function which sets and gets the cached values
 ## Taking advantage of the scoping rules of the R programming language 
 
 ## A function that creates a special "matrix" object that can cache its inverse.

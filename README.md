@@ -10,7 +10,7 @@ sense to cache the value of the mean so that when we need it again, it
 can be looked up in the cache rather than recomputed. In this
 Programming Assignment you will take advantage of the scoping rules of
 the R language and how they can be manipulated to preserve state inside
-of an R object.
+of an R object .
 
 ### Example: Caching the Mean of a Vector
 
